@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Contact </title>
+	<link rel="stylesheet" type="text/css" href="Style.css"/>
+	</head>
+	<body>
+		<div id="header"><p style="Font-size:32px;text-align:center">
+			"He who has a why to live for can bear almost any how." 
+			
+			 -Friedrich Nietzsche
+			</div>
+			<div id="left_column">
+				<a href= "home.html">
+			Home<br>
+			<a href="Portfolio.html">
+			Portfolio<br>
+			<a href="About.html">
+			About<br>
+			<a href="Contact.html">
+			Contact<br>	
+				</div>
+				<div id="main_content"><form>
+					First name: <input type="text" name="firstname"><br>
+					Last name: <input type="text" name="lastname"></form>
+					<form>
+					<input type="radio" name="sex" value="male">Male<br>
+					<input type="radio" name="sex" value="female">Female
+					</form>
+				<form>
+					<input type="checkbox" name="Age" value="age range">13-17<br>
+					<input type="checkbox" name="Age" value="age range">18+ 
+					</form>
+					<p>What would you like to ask Imani today? Anything you don't understand? Write below... </p>
+					<textarea rows="4"cols="50"></textarea>
+					<form>
+					<input type="submit" value="Submit">
+					</form>
+					
+					</div>
+					<div id="footer">
+						<a href= "http://youtube.com/">Visit Youtube</a></i><br><a href= "https://www.twitter.com/"> Visit Twitter</a>
+						</div>
+		</body>
+		</html>
+		

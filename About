@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> About
+</title>
+<link rel="stylesheet" type="text/css" href="Style.css"/>
+</head>
+<body>
+  <div id="header"> <h1><center>IMANI MARGARETTE</center></h1></div>
+	<div id="left_column">
+		<a href= "home.html">
+	Home<br>
+		<a href="Portfolio.html">
+	Portfolio<br>
+		<a href="About.html">
+	About<br>
+		<a href="Contact.html">
+	Contact<br>
+		
+		</div>
+	<div id="main_content">
+		<p>My Life In Chicago...</p>
+		<object width="628" height="515" id="kickWidget_176704_502953" name="kickWidget_176704_502953" type="application/x-shockwave-flash" data="http://serve.a-widget.com/service/getWidgetSwf.kickAction"><param name="movie" value="http://serve.a-widget.com/service/getWidgetSwf.kickAction" ></param><param name="FlashVars" value="affiliateSiteId=176704&amp;widgetId=509145&amp;width=628&amp;height=515&amp;noScale=1&amp;playOnLoad=0&amp;autoPlay=0&amp;betord=1374001860384&amp;betembedn=murder-to-excellence-part-2&amp;betembedshow=&amp;eVar17=video%3Amusicnews%3A2012%3Amurder-to-excellence-part-2&amp;mediaURL=http%3A%2F%2Fwww.bet.com%2Fvideo%2Fmusicnews%2F2012%2Fmurder-to-excellence-part-2%2F_jcr_content%2Fleftcol%2Fvideoplayer.videoplaylistmrss.mrss%3Fpt%3DEmbedFullPage%26type%3DEmbedFullPage%26ordts%3Dy" ></param><param name="wmode" value="transparent" ></param><param name="allowFullScreen" value="true" ></param><param name="allowScriptAccess" value="always" ></param></object>
+		<p>My name is Imani Stevenson and i am 17 years old. I grew up on the east side of Chicago until the age of 9, then moved to the south side in West Englewood.</p><p> Im a very smart child and i do what i have to do in school to get by. I live in a violent neighborhood but i do not let these things get to me ..</p> i move forward and try to stay away from negative things. Im into volley ball and dancing and thats what i do to keep myself from out the streets. 
+		<iframe src="//instagram.com/p/T6QsJqhJ1R/embed/" width="412" height="310" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+		</div>
+	
+	
+	
+	<div id="footer">
+		<a href= "http://youtube.com/">Visit Youtube</a></i><br><a href= "https://www.twitter.com/"> Visit Twitter</a>
+	</div>

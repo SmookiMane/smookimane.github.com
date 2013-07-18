@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>  Imani
+</title>
+<link rel="stylesheet" type="text/css" href="STyle.css"/>
+</head>
+<body>
+  	
+<div id="header"><h1><center> IMANI MARGARETTE </h1></center>
+</div>
+
+<div id="left_column">
+	<a href= "home.html">
+	Home<br>
+	<a href="Portfolio.html">
+	Portfolio<br>
+	<a href="About.html">
+	About<br>
+	<a href="Contact.html">
+	Contact<br>
+	
+</div>
+
+<div id="main_content">	
+	<center>DRAGON MAKER</center>
+	<center><iframe allowtransparency="true" width="485" height="402" src="http://scratch.mit.edu/projects/embed/11250581/" frameborder="0" allowfullscreen></iframe></center>
+	
+	
+	<center><p>INSTRUCTIONS: Use your pointer to change the color and form of the dragon's features.</p></center>
+  
+	</div>
+	
+<div id="footer">
+	<a href= "http://youtube.com/">Visit Youtube</a></i><br><a href= "https://www.twitter.com/"> Visit Twitter</a>
+</div>
+
+</body>
+</html>

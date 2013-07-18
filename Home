@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>  Imani
+</title>
+<link rel="stylesheet" type="text/css" href="Style.css"/>
+</head>
+<body>
+  	
+<div id="header"><h1><center> IMANI MARGARETTE </h1></center>
+</div>
+
+<div id="left_column">
+	<a href= "home.html">
+	Home<br>
+	<a href="Portfolio.html">
+	Portfolio<br>
+	<a href="About.html">
+	About<br>
+	<a href="Contact.html">
+	Contact<br>
+	
+</div>
+
+<div id="main_content">
+	<p style="font-size: 25px; font-family: Times New Roman"></p>
+
+		
+	
+		
+	</div>
+	
+<div id="footer">
+	<a href= "http://youtube.com/">Visit Youtube</a></i><br><a href= "https://www.twitter.com/"> Visit Twitter</a>
+</div>
+
+</body>
+</html>

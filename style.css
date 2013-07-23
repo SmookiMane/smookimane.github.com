@@ -11,3 +11,13 @@ body{background-color:#66CCCC}
 	
 #footer{background-color:#9966CC; width:100%;
 	min-height:100px; clear:both}
+	img
+	{
+	opacity:0.4;
+	filter:alpha(opacity=40); /* For IE8 and earlier */
+	}
+	img:hover
+	{
+	opacity:1.0;
+	filter:alpha(opacity=100); /* For IE8 and earlier */
+	}
